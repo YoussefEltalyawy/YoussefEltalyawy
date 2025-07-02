@@ -1,5 +1,5 @@
-<h2 align="left">👋 Hi, I'm Yousef Eltalyawy</h2>
-<h3 align="left">A Full-Stack Web Developer & Designer from Giza, Egypt</h3>
+<h2 align="left">👋 Hey, I'm Yousef Eltalyawy</h2>
+<h3 align="left">Full-Stack Developer & Designer · Giza, Egypt</h3>
 
 ###
 
@@ -21,27 +21,50 @@
 
 ###
 
-### About Me
+### 👨‍💻 Who Am I?
 
-I’m a passionate **Full-Stack Web Developer & Designer** with a knack for turning ideas into reality. Based in **Giza, Egypt**, I specialize in crafting **pixel-perfect web experiences** that help creators, startups, and entrepreneurs stand out in a crowded market and boost their revenue.
+I'm Yousef — a 15-year-old full-stack developer and designer building my path with pure drive, late nights, and the kind of ambition that doesn't fit in a school desk. I'm from **Giza, Egypt**, but my mind is always somewhere between design docs and code editors, chasing big ideas.
 
-My goal is to bridge the gap between imagination and product. That’s why I’ve honed a diverse skill set, including **UI/UX design**, **3D modeling with Blender**, and **full-stack development**. Whether it’s a sleek website, a robust web application, or a stunning visual design, I bring ideas to life with precision and creativity.
 
-### What I Do
-- 🛠️ Build scalable, modern web applications using **Next.js**, **React**, and **TypeScript**.
-- 🎨 Design intuitive and visually appealing user interfaces with **Figma**.
-- 🗃️ Manage databases and backend systems with **PostgreSQL**, **Prisma**, and **Supabase**.
-- 🚀 Transform concepts into fully functional products, from ideation to deployment.
+Whether it's working on my own projects like [Ankh](https://github.com/YousefEltalyawy?tab=repositories&q=ankh), or pitching local brands through my solo studio **Talyawy.dev**, I'm all in.
 
-### Let’s Connect
-If you have an idea you’d like to bring to life or just want to chat about tech, design, or development, feel free to reach out!
+---
+
+### 🧠 What Drives Me?
+
+I’m building the future I wish I had — one where tech meets design, clarity meets emotion, and creativity isn't sacrificed for functionality.
+
+No fluff. No templates. Just solid work, bold vision, and the will to grow every single day.
+
+---
+
+### 🔧 What I Work With
+- **Frontend:** Next.js · React · TypeScript · Tailwind CSS
+- **Backend:** Supabase · Prisma · PostgreSQL · REST
+- **Design:** Figma · Blender (still exploring 👀)
+- **Extras:** Auth with Kinde, Clerk, and Auth.js · UI Animations · Clean, component-driven architecture
+
+---
+
+### 💡 What I'm Into
+- Turning vague ideas into real apps
+- Building clean, scalable systems that feel *right*
+- Working with creators, dreamers, and bold minds
+- Learning everything from app dev to philosophy
+
+---
+
+### ⚡ Want to Connect?
+
+You don’t need a big pitch. If you vibe with what I do — let’s talk.
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/201149173309)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/yousefeltalyawy/)
 
-### Why Work With Me?
-- **Versatility**: From design to deployment, I handle every aspect of product development.
-- **Attention to Detail**: I ensure every pixel and line of code is perfect.
-- **Passion-Driven**: I love what I do, and it shows in my work.
+---
 
-Let’s create something amazing together! 🚀
+### 🧭 TL;DR?
+
+**Young but deadly.** I design like an artist, code like an engineer, and dream like a founder.
+
+Let’s build something that matters. 🚀
