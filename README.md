@@ -26,7 +26,7 @@
 I'm Talyawy a 17-year-old full-stack developer and designer building my path with pure drive, late nights, and the kind of ambition that doesn't fit in a school desk. I'm from **Giza, Egypt**, but my mind is always somewhere between design docs and code editors, chasing big ideas.
 
 
-Whether it's working on my own projects like [Medu](https://github.com/YoussefEltalyawy/old-medu), or pitching local brands through my solo studio [**Talyawy.dev**](https://talyawy.vercel.app/), I'm all in.
+Whether it's working on my own projects like [Project May](https://github.com/YoussefEltalyawy/Project-May), or pitching local brands through my solo studio [**Talyawy.dev**](https://talyawy.vercel.app/), I'm all in.
 
 ---
 
